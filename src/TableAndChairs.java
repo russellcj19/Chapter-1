@@ -18,5 +18,7 @@ public class TableAndChairs {
         System.out.println("A        A    X               X     A        A");
         System.out.println("I        I    X               X     I        I");
         System.out.println("R        R    X               X     R        R");
+
+        System.out.println("Look Mom! I can commit to somthing. HAHAHA I meant GITHUB");
     }
 }
